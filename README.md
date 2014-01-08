@@ -1,4 +1,4 @@
-# Fauxsoftware
+# FauxSoftware
 
 Minimal Ghost theme for use on FauxSoftware.com. Based off of Vapor by Seth Lilly.
 
