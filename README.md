@@ -1,4 +1,4 @@
-# Vapor
+# FauxSoftware
 
 Minimal and responsive with a focus on typography, *Vapor* is a theme that embodies the core concept of [Ghost](http://ghost.org/)&mdash;it fades into the background, bringing the focus to your content.
 
